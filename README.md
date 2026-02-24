@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d0295999-253e-4c69-bc5a-4d89341d0cba" />
+<h1 align="center">Hey 👋<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d0295999-253e-4c69-bc5a-4d89341d0cba" />
 , I'm Devesh</h1>
 
 <p align="center">
