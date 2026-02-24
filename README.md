@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Uploading wallhaven-mdjrqy.jpg…]()
-
 
 <!--
 **nerdlydev/nerdlydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
