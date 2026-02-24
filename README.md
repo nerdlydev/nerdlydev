@@ -1,18 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d0295999-253e-4c69-bc5a-4d89341d0cba" />
+, I'm Devesh (aka nerdlyDev)</h1>
 
-
-<!--
-**nerdlydev/nerdlydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...![Uploading wallhaven-mdjrqy.jpg…]()
-
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Driven by curiosity.<br/>
+If an idea pops into my head, chances are I'm already building it.
+</p>
