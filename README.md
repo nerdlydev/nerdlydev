@@ -1,12 +1,4 @@
-<h1 align="left">Hey <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d0295999-253e-4c69-bc5a-4d89341d0cba" /></h1>
-
-###
-
-<p align="left">I'm Devesh</p>
-
-###
-
-<h2 align="left">About me</h2>
+<h1 align="left">Hey 👋, I'm Devesh <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d0295999-253e-4c69-bc5a-4d89341d0cba" /></h1>
 
 ###
 
