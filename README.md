@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Driven by curiosity.<br>If an idea pops into my head, chances are I'm already building it.</p>
+<p align="left">A passionate self taught software engineer who is learning more and more everyday.</p>
 
 ###
 
